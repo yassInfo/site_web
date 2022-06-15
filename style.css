@@ -1,0 +1,10 @@
+#top-banner{
+    background-color: aqua;
+    color: #333;
+}
+#top-banner  h1{
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    font-size: 2vw;
+    text-align: center;
+    } 
